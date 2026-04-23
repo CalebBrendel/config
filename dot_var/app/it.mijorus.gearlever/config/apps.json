@@ -1,0 +1,119 @@
+{
+    "TW9vbmxpZ2h0": {
+        "b64name": "TW9vbmxpZ2h0",
+        "name": "Moonlight",
+        "update_url": "https://github.com/moonlight-stream/moonlight-qt/releases/download/*/*-x86_64.AppImage ",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": false,
+            "repo_url": "https://github.com/moonlight-stream/moonlight-qt",
+            "repo_filename": "*-x86_64.AppImage "
+        }
+    },
+    "cjJtb2RtYW4=": {
+        "b64name": "cjJtb2RtYW4=",
+        "update_url": "https://github.com/ebkr/r2modmanPlus/releases/download/*/*.AppImage",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": true,
+            "repo_url": "https://github.com/ebkr/r2modmanPlus",
+            "repo_filename": "*.AppImage"
+        },
+        "name": "r2modman"
+    },
+    "b3N1IQ==": {
+        "b64name": "b3N1IQ==",
+        "update_url": "https://github.com/ppy/osu/releases/download/*/osu.AppImage",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": true,
+            "repo_url": "https://github.com/ppy/osu",
+            "repo_filename": "osu.AppImage"
+        },
+        "name": "osu!"
+    },
+    "T3BlbiBWaWRlbyBEb3dubG9hZGVy": {
+        "b64name": "T3BlbiBWaWRlbyBEb3dubG9hZGVy",
+        "update_url": "https://github.com/jely2002/youtube-dl-gui/releases/download/*/*amd64.AppImage",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": true,
+            "repo_url": "https://github.com/jely2002/youtube-dl-gui",
+            "repo_filename": "*amd64.AppImage"
+        },
+        "name": "Open Video Downloader"
+    },
+    "UmFzcGJlcnJ5IFBpIEltYWdlcg==": {
+        "b64name": "UmFzcGJlcnJ5IFBpIEltYWdlcg==",
+        "update_url": "https://github.com/raspberrypi/rpi-imager/releases/download/*/Raspberry_Pi_Imager-*-desktop-x86_64.AppImage",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": true,
+            "repo_url": "https://github.com/raspberrypi/rpi-imager",
+            "repo_filename": "Raspberry_Pi_Imager-*-desktop-x86_64.AppImage"
+        },
+        "name": "Raspberry Pi Imager"
+    },
+    "c29jaWFsc3RyZWFt": {
+        "b64name": "c29jaWFsc3RyZWFt",
+        "update_url": "https://github.com/steveseguin/social_stream/releases/download/*/*_x86_64.AppImage",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": true,
+            "repo_url": "https://github.com/steveseguin/social_stream",
+            "repo_filename": "*_x86_64.AppImage"
+        },
+        "name": "socialstream"
+    },
+    "V2hhdFB1bHNl": {
+        "b64name": "V2hhdFB1bHNl",
+        "update_url": "https://whatpulse.org/downloads/470",
+        "update_url_manager": "StaticFileUpdater",
+        "update_manager_config": {
+            "url": "https://whatpulse.org/downloads/470"
+        },
+        "name": "WhatPulse"
+    },
+    "dGVzc2VyYWN0": {
+        "b64name": "dGVzc2VyYWN0",
+        "update_url": "https://github.com/AlexanderP/tesseract-appimage/releases/download/*/tesseract-*-x86_64.AppImage ",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": false,
+            "repo_url": "https://github.com/AlexanderP/tesseract-appimage",
+            "repo_filename": "tesseract-*-x86_64.AppImage "
+        },
+        "name": "tesseract"
+    },
+    "WW91VHViZSBNdXNpYw==": {
+        "b64name": "WW91VHViZSBNdXNpYw==",
+        "update_url": "https://github.com/pear-devs/pear-desktop/releases/download/*/YouTube-Music-*.AppImage",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": false,
+            "repo_url": "https://github.com/pear-devs/pear-desktop",
+            "repo_filename": "YouTube-Music-*.AppImage"
+        },
+        "name": "YouTube Music"
+    },
+    "Rmx1eGVy": {
+        "b64name": "Rmx1eGVy",
+        "update_url": "https://api.fluxer.app/dl/desktop/stable/linux/x64/latest/appimage",
+        "update_url_manager": "StaticFileUpdater",
+        "update_manager_config": {
+            "url": "https://api.fluxer.app/dl/desktop/stable/linux/x64/latest/appimage"
+        },
+        "name": "Fluxer"
+    },
+    "T05MWU9GRklDRSBEZXNrdG9wIEVkaXRvcnM=": {
+        "b64name": "T05MWU9GRklDRSBEZXNrdG9wIEVkaXRvcnM=",
+        "update_url": "https://github.com/ONLYOFFICE/appimage-desktopeditors/releases/download/*/DesktopEditors-x86_64.AppImage",
+        "update_url_manager": "GithubUpdater",
+        "update_manager_config": {
+            "allow_prereleases": false,
+            "repo_url": "https://github.com/ONLYOFFICE/appimage-desktopeditors",
+            "repo_filename": "DesktopEditors-x86_64.AppImage"
+        },
+        "name": "ONLYOFFICE Desktop Editors"
+    }
+}
